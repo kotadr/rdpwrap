@@ -1,2 +1,2 @@
 # rdpwrap
-RDP Wrapper Library (updated)
+Updated version of the RDP Wrapper Library
