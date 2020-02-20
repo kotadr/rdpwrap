@@ -18,3 +18,6 @@ res/RDPWInst.wixpdb
 res/RDPWInst.wixobj
 res/RDPWInst.msi
 src-rdpconfig/LicenseUnit.dcu
+src-x86-binarymaster/rdpwrap.dproj
+src-x86-binarymaster/rdpwrap.dproj.local
+src-x86-binarymaster/rdpwrap.identcache
