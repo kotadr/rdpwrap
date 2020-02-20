@@ -1,0 +1,10 @@
+[6.2.9200.22977]
+SingleUserPatch.x86=1
+SingleUserOffset.x86=155B2
+SingleUserCode.x86=nop
+DefPolicyPatch.x86=1
+DefPolicyOffset.x86=13F68
+DefPolicyCode.x86=CDefPolicy_Query_eax_esi
+SLPolicyInternal.x86=1
+SLPolicyOffset.x86=195B9
+SLPolicyFunc.x86=New_Win8SL

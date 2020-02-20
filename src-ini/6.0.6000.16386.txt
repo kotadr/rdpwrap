@@ -1,0 +1,13 @@
+[6.0.6000.16386]
+SingleUserPatch.x86=1
+SingleUserOffset.x86=160BF
+SingleUserCode.x86=nop
+SingleUserPatch.x64=1
+SingleUserOffset.x64=65E3E
+SingleUserCode.x64=Zero
+DefPolicyPatch.x86=1
+DefPolicyOffset.x86=15CD8
+DefPolicyCode.x86=CDefPolicy_Query_edx_ecx
+DefPolicyPatch.x64=1
+DefPolicyOffset.x64=5C88F
+DefPolicyCode.x64=CDefPolicy_Query_eax_rcx_jmp
