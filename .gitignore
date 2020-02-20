@@ -13,3 +13,8 @@ src-rdpcheck/RDPCheck.dproj.local
 src-rdpcheck/RDPCheck.identcache
 *.dcu
 src-rdpconfig/LicenseUnit.dcu
+src-rdpconfig/LicenseUnit.dcu
+res/RDPWInst.wixpdb
+res/RDPWInst.wixobj
+res/RDPWInst.msi
+src-rdpconfig/LicenseUnit.dcu
