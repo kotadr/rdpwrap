@@ -618,7 +618,7 @@ end;
 function GitINIFile(var Content: String): Boolean;
 const
 //  URL = 'https://raw.githubusercontent.com/stascorp/rdpwrap/master/res/rdpwrap.ini';
-  URL = 'https://raw.githubusercontent.com/kotadr/rdpwrap/master/src-installer/RES/CONFIG';
+  URL = 'https://raw.githubusercontent.com/kotadr/rdpwrap/master/rdpwrap.ini';
 var
   NetHandle: HINTERNET;
   UrlHandle: HINTERNET;
