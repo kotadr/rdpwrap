@@ -1,0 +1,15 @@
+
+bin/RDPWInst.msi
+bin/RDPWInst.wixpdb
+*.wixobj
+res/RDPWInst.wixobj
+res/RDPWInst.wixpdb
+src-installer/RDPWInst.dproj.local
+src-installer/RDPWInst.identcache
+res/RDPWInst.wixobj
+res/RDPWInst.wixpdb
+*.dcu
+src-rdpcheck/RDPCheck.dproj.local
+src-rdpcheck/RDPCheck.identcache
+*.dcu
+src-rdpconfig/LicenseUnit.dcu

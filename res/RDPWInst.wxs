@@ -34,7 +34,8 @@
     <CustomAction Id='InstallAction' FileKey='RDPWInst' ExeCommand='-i -o' Execute='immediate' Return='check'/>
     <CustomAction Id='UninstallAction' FileKey='RDPWInst' ExeCommand='-u' Execute='immediate' Return='check'/>
     <CustomAction Id='UpdateAction' FileKey='RDPWInst' ExeCommand='-w' Execute='immediate' Return='check'/>
-<!--     <CustomAction Id='ChangeAction' Directory='ProgramFilesFolder' ExeCommand='RDP Wrapper\RDPConf' Execute='immediate' Return='check'/>
+<!--    <CustomAction Id='ChangeAction' FileKey='RDPWInst' ExeCommand='-r' Execute='immediate' Return='check'/>
+     <CustomAction Id='ChangeAction' Directory='ProgramFilesFolder' ExeCommand='RDP Wrapper\RDPConf' Execute='immediate' Return='check'/>
     <CustomAction Id='RepairAction' Directory='ProgramFilesFolder' ExeCommand='RDP Wrapper\RDPCheck' Execute='immediate' Return='check'/> -->
 
     <InstallExecuteSequence>
