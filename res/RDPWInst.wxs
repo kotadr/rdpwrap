@@ -20,7 +20,7 @@
         <Directory Id="PACKAGECACHE" Name="Package Cache">
           <Directory Id="INSTALLLOCATION" Name="{$(var.ProductCode)}">
             <Component Id="RDPWrap" Guid="affd77d1-b35c-46f3-a97f-1686dc57b8b8">
-              <File Id='RDPWInst' DiskId='1' Source='RDPWInst.exe'/>
+              <File Id='RDPWInst' DiskId='1' Source='..\bin\RDPWInst.exe'/>
             </Component>
           </Directory>
         </Directory>
