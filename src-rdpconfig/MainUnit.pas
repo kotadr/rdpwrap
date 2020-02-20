@@ -60,9 +60,6 @@ type
     procedure bLicenseClick(Sender: TObject);
     procedure TimerTimer(Sender: TObject);
     procedure FormDestroy(Sender: TObject);
-    procedure lWrapVerClick(Sender: TObject);
-    procedure lWrapperClick(Sender: TObject);
-    procedure lsSuppVerClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -722,19 +719,4 @@ begin
   bApply.Enabled := False;
 end;
 
-procedure TMainForm.lWrapVerClick(Sender: TObject);
-begin
-
-procedure TMainForm.lWrapperClick(Sender: TObject);
-begin
-
-eprocedure TMainForm.lsSuppVerClick(Sender: TObject);
-begin
-
-end;
-
-nd;
-
-nd;
-
-nd.
+end.
