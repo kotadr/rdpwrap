@@ -154,15 +154,13 @@ object MainForm: TMainForm
       Width = 74
       Height = 13
       Caption = 'Wrapper state:'
-      OnClick = lWrapperClick
     end
     object lWrapVer: TLabel
-      Left = 200
+      Left = 202
       Top = 17
       Width = 20
       Height = 13
       Caption = 'ver.'
-      OnClick = lWrapVerClick
     end
     object lsSuppVer: TLabel
       Left = 202
@@ -170,7 +168,6 @@ object MainForm: TMainForm
       Width = 70
       Height = 13
       Caption = '[support level]'
-      OnClick = lsSuppVerClick
     end
   end
   object gbGeneral: TGroupBox
