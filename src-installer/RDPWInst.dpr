@@ -617,7 +617,8 @@ end;
 
 function GitINIFile(var Content: String): Boolean;
 const
-  URL = 'https://raw.githubusercontent.com/stascorp/rdpwrap/master/res/rdpwrap.ini';
+//  URL = 'https://raw.githubusercontent.com/stascorp/rdpwrap/master/res/rdpwrap.ini';
+  URL = 'https://raw.githubusercontent.com/kotadr/rdpwrap/master/src-installer/RES/CONFIG';
 var
   NetHandle: HINTERNET;
   UrlHandle: HINTERNET;
@@ -1129,9 +1130,9 @@ end;
 var
   I: Integer;
 begin
-  Writeln('RDP Wrapper Library v1.6.3');
-  Writeln('Installer v2.7');
-  Writeln('Copyright (C) Stas''M Corp. 2020');
+  Writeln('RDP Wrapper Library v1.6.2');
+  Writeln('Installer v2.6');
+  Writeln('Copyright (C) Stas''M Corp. 2018');
   Writeln('');
 
   if (ParamCount < 1)
