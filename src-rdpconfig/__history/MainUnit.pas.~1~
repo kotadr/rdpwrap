@@ -60,6 +60,7 @@ type
     procedure bLicenseClick(Sender: TObject);
     procedure TimerTimer(Sender: TObject);
     procedure FormDestroy(Sender: TObject);
+    procedure lsWrapVerClick(Sender: TObject);
     procedure lWrapVerClick(Sender: TObject);
     procedure lWrapperClick(Sender: TObject);
     procedure lsSuppVerClick(Sender: TObject);
@@ -695,7 +696,12 @@ begin
     RevertWowRedirection;
 end;
 
-procedure TMainForm.FormCloseQuery(Sender: TObject; var CanClose: Boolean);
+pprocedure TMainForm.lsWrapVerClick(Sender: TObject);
+begin
+
+end;
+
+rocedure TMainForm.FormCloseQuery(Sender: TObject; var CanClose: Boolean);
 begin
   if bApply.Enabled then
     CanClose := MessageBox(Handle, 'Settings are not saved. Do you want to exit?',
@@ -722,10 +728,10 @@ begin
   bApply.Enabled := False;
 end;
 
-procedure TMainForm.lWrapVerClick(Sender: TObject);
+eprocedure TMainForm.lWrapVerClick(Sender: TObject);
 begin
 
-procedure TMainForm.lWrapperClick(Sender: TObject);
+eprocedure TMainForm.lWrapperClick(Sender: TObject);
 begin
 
 eprocedure TMainForm.lsSuppVerClick(Sender: TObject);

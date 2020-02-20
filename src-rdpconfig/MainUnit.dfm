@@ -140,7 +140,6 @@ object MainForm: TMainForm
       Width = 44
       Height = 13
       Caption = 'Unknown'
-      OnClick = lsWrapVerClick
     end
     object lTSVer: TLabel
       Left = 202

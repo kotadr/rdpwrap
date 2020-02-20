@@ -722,10 +722,10 @@ begin
   bApply.Enabled := False;
 end;
 
-procedure TMainForm.lWrapVerClick(Sender: TObject);
+eprocedure TMainForm.lWrapVerClick(Sender: TObject);
 begin
 
-procedure TMainForm.lWrapperClick(Sender: TObject);
+eprocedure TMainForm.lWrapperClick(Sender: TObject);
 begin
 
 eprocedure TMainForm.lsSuppVerClick(Sender: TObject);
