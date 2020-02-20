@@ -1,0 +1,9 @@
+[SLInit]
+bServerSku=1
+bRemoteConnAllowed=1
+bFUSEnabled=1
+bAppServerAllowed=1
+bMultimonAllowed=1
+lMaxUserSessions=0
+ulMaxDebugSessions=0
+bInitialized=1

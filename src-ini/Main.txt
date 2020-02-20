@@ -1,0 +1,5 @@
+[Main]
+Updated=2020-02-18
+LogFile=\rdpwrap.txt
+SLPolicyHookNT60=1
+SLPolicyHookNT61=1

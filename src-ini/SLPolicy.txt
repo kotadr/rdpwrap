@@ -1,0 +1,15 @@
+[SLPolicy]
+TerminalServices-RemoteConnectionManager-AllowRemoteConnections=1
+TerminalServices-RemoteConnectionManager-AllowMultipleSessions=1
+TerminalServices-RemoteConnectionManager-AllowAppServerMode=1
+TerminalServices-RemoteConnectionManager-AllowMultimon=1
+TerminalServices-RemoteConnectionManager-MaxUserSessions=0
+TerminalServices-RemoteConnectionManager-ce0ad219-4670-4988-98fb-89b14c2f072b-MaxSessions=0
+TerminalServices-RemoteConnectionManager-45344fe7-00e6-4ac6-9f01-d01fd4ffadfb-MaxSessions=2
+TerminalServices-RDP-7-Advanced-Compression-Allowed=1
+TerminalServices-RemoteConnectionManager-45344fe7-00e6-4ac6-9f01-d01fd4ffadfb-LocalOnly=0
+TerminalServices-RemoteConnectionManager-8dc86f1d-9969-4379-91c1-06fe1dc60575-MaxSessions=1000
+TerminalServices-DeviceRedirection-Licenses-TSEasyPrintAllowed=1
+TerminalServices-DeviceRedirection-Licenses-PnpRedirectionAllowed=1
+TerminalServices-DeviceRedirection-Licenses-TSMFPluginAllowed=1
+TerminalServices-RemoteConnectionManager-UiEffects-DWMRemotingAllowed=1
