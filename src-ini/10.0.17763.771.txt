@@ -23,7 +23,6 @@ DefPolicyCode.x64=CDefPolicy_Query_eax_rcx
 SLInitHook.x64=1
 SLInitOffset.x64=1ACDC
 SLInitFunc.x64=New_CSLQuery_Initialize
-
 [10.0.17763.771-SLInit]
 bInitialized.x86=CD79C
 bServerSku.x86=CD7A0

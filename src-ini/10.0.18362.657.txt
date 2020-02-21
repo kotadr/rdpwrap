@@ -1,4 +1,4 @@
-[10.0.18362.267]
+[10.0.18362.657]
 LocalOnlyPatch.x86=1
 LocalOnlyOffset.x86=B7D06
 LocalOnlyCode.x86=jmpshort
@@ -23,7 +23,7 @@ SLInitFunc.x86=New_CSLQuery_Initialize
 SLInitHook.x64=1
 SLInitOffset.x64=22DDC
 SLInitFunc.x64=New_CSLQuery_Initialize
-[10.0.18362.267-SLInit]
+[10.0.18362.657-SLInit]
 bInitialized.x86=D577C
 bServerSku.x86=D5780
 lMaxUserSessions.x86=D5784

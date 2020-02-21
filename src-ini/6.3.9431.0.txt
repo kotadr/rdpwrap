@@ -23,7 +23,6 @@ SLInitFunc.x86=New_CSLQuery_Initialize
 SLInitHook.x64=1
 SLInitOffset.x64=2F9C0
 SLInitFunc.x64=New_CSLQuery_Initialize
-
 [6.3.9431.0-SLInit]
 bFUSEnabled.x86=A22A8
 lMaxUserSessions.x86=A22AC

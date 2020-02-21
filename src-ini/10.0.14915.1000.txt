@@ -23,7 +23,6 @@ SLInitFunc.x86=New_CSLQuery_Initialize
 SLInitHook.x64=1
 SLInitOffset.x64=CE40
 SLInitFunc.x64=New_CSLQuery_Initialize
-
 [10.0.14915.1000-SLInit]
 bInitialized.x86=C4F6C
 bServerSku.x86=C4F70
